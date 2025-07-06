@@ -1,12 +1,18 @@
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
-
+<h1 align="center">Hi! Thank you for visiting my profile</h1>
+👨🏻‍💻 &nbsp; <span style="color:white" font-size:6em>**About Me**</span><br>
+<span style="color:white"> I'm a computer systems engineer and data science enthusiast with solid knowledge of Big Data algorithms, including ID3, KNN, K-means, Naive Bayes with its aplication using pyspark.</span><br>
+<span style="color:white">I have experience in front-end and UX development using frameworks such as React and Materialize, based on functional requirements, UML diagrams and applying agile methodologies (SCRUM,Kanban).</span><br><br>
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
 </p>
+✍️ &nbsp; <span style="color:white" font-size:6em>**My repository**</span><br>
+<span style="color:white">In this repository you can wacth everything my codes of each project that I have done in diffetents programming languages. Besides you can find a little explanation abour each project in the readme of the project.</span><br><br>
+
+
 
 <!-- Socials with Links -->
 <!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:guopatrick.correspondence@gmail.com)
+[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:atl1cardoso0@gmail.com)
 [<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/patrickguo/)
 [<img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">](https://www.datacamp.com/profile/shpatrickguo)
 [<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
