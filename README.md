@@ -1,50 +1,58 @@
-<h1 align="center">Hi! Thank you for visiting my profile</h1>
-👨🏻‍💻 &nbsp; <span style="color:white" font-size:6em>**About Me**</span><br>
-<span style="color:white"> I'm a computer systems engineer and data science enthusiast with solid knowledge of Big Data algorithms, including ID3, KNN, K-means, Naive Bayes with its aplication using pyspark.</span><br>
-<span style="color:white">I have experience in front-end and UX development using frameworks such as React and Materialize, based on functional requirements, UML diagrams and applying agile methodologies (SCRUM,Kanban).</span><br><br>
-<p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=500px title="Hi, nice to meet you!">
-</p>
-✍️ &nbsp; <span style="color:white" font-size:6em>**My repository**</span><br>
-<span style="color:white">In this repository you can wacth everything my codes of each project that I have done in diffetents programming languages. Besides you can find a little explanation abour each project in the readme of the project.</span><br><br>
+<h1 align="center">👋 Hi! Welcome to My GitHub Profile</h1>
 
+---
 
+### 👨🏻‍💻 **About Me**
 
-<!-- Socials with Links -->
-<!-- Gifs found on GIPHY made by @devrock -->
-[<img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="100" title="gmail">](mailto:atl1cardoso0@gmail.com)
-[<img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="100" title="linkedin">](https://www.linkedin.com/in/patrickguo/)
-[<img src="https://play-lh.googleusercontent.com/zIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4=s360-rw" width="100" title="datacamp">](https://www.datacamp.com/profile/shpatrickguo)
-[<img src="img/tableau.png" width="100" title="tableau">](https://public.tableau.com/app/profile/patrick.guo)
-[<img src="https://user-images.githubusercontent.com/70539478/157151091-e994f0a1-ae3c-4955-ade7-a005a202a52f.png" width="100" title="hackerrank">](https://www.hackerrank.com/guopatrick)
-[<img src="https://www.kaggle.com/static/images/logos/kaggle-logo-transparent-300.png" width="200" title="kaggle">](https://www.kaggle.com/shpatrickguo)
+I'm a **Computer Systems Engineer** and **Data Science enthusiast**, passionate about leveraging Big Data and machine learning algorithms such as ID3, KNN, K-means, and Naive Bayes, particularly with PySpark.
 
+I also have hands-on experience in **Front-end Development and UX Design**, proficiently utilizing frameworks like **React** and **Materialize**. I create user-centric applications guided by functional requirements, UML diagrams, and Agile methodologies (SCRUM, Kanban).
+
+---
+
+### 🚀 **Skills & Technologies**
+
+<table width="200%">
+<tr>
+<td width="50%">
 <p align="left">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100px" title="django">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="100px" title="postgresql">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="70" title="VSCode">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="70" title="node">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="70" title="github">
+  <img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="70" title="Python">
+  <img alt="JavaScript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="70" title="JavaScript">
+  <img alt="HTML5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" title="HTML5">
+  <img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" title="CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="70px" title="PostgreSQL">
 </p>
-<!-- Other Tools
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px" title="git">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" title="node">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50px" title="java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50px" title="npm">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="50px" title="bootstrap">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50px" title="mongodb">
-  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="50px" title="google cloud">
--->
+</td>
+<td width="50%">
 <p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
+  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" style="width:100%;max-width:400px;" alt="Hi, nice to meet you!">
 </p>
+</td>
+</tr>
+</table>
 
-<!-- Snake game of GitHub Contributions https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
-![github contribution grid snake animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
+---
+
+### 📁 **My Projects**
+
+In my repositories, you can explore various projects I’ve developed across multiple programming languages. Each repository includes detailed documentation and explanations in the README files.
+
+👉 [Explore My Repositories](https://github.com/yourusername?tab=repositories)
+
+---
+
+### 📫 **Get in Touch!**
+
+Feel free to reach out if you're interested in collaborating or discussing any tech topic:
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:youremail@example.com)
+
+---
+
+![GitHub Contribution Grid Snake Animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
