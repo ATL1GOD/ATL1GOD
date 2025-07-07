@@ -44,15 +44,6 @@ In my repositories, you can explore various projects I’ve developed across mul
 
 ---
 
-### 📫 **Get in Touch!**
-
-Feel free to reach out if you're interested in collaborating or discussing any tech topic:
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
-
----
-
 ![GitHub Contribution Grid Snake Animation](https://github.com/shpatrickguo/shpatrickguo/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
