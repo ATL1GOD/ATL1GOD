@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! Welcome to My GitHub Profile</h1>
+<h1 align="center"> 🦊 Hi! Welcome to My GitHub Profile 🦊</h1>
 
 ---
 
@@ -40,7 +40,7 @@ I also have hands-on experience in **Front-end Development and UX Design**, prof
 
 In my repositories, you can explore various projects I’ve developed across multiple programming languages. Each repository includes detailed documentation and explanations in the README files.
 
-👉 [Explore My Repositories](https://github.com/yourusername?tab=repositories)
+👉 [Explore My Repositories](https://github.com/ATL1GOD?tab=repositories)
 
 ---
 
